@@ -4,17 +4,20 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Frontend Mentor - Expenses chart component solution](#frontend-mentor---expenses-chart-component-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+    - [Useful resources-2](#useful-resources-2)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -34,8 +37,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/gladstone28/expenses-chart-component-FEM)
-- Live Site URL: [Add live site URL here](https://gladstone28.github.io/expenses-chart-component-FEM/)
+- Solution URL: [Add solution URL here](https://github.com/gladstone28/rose-expenses-chart-component-FEM)
+- Live Site URL: [Add live site URL here](https://gladstone28.github.io/rose-expenses-chart-component-FEM/)
+- 
 
 ## My process
 
